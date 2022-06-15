@@ -5,14 +5,15 @@
  * @c: parameter
  * Return: 0 if sucessful
  */
- int isupper(int c){
-	 if(c >= 65 && c < 91){
 
-		 return(1);
-	 }
-	 else
+int _isupper(int c)
+{
+	if (c >= 65 && c < 91)
 	{
-		return(0);
+		return (1);
 	}
-
- }
+	else
+	{
+		return (0);
+	}
+}
