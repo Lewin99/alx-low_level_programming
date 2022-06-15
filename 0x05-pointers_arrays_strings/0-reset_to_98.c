@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main -chech the codes
- *
- * return: Always 0.
+ * reset_to_98 - reverts poiter to 98
+ * @n: pointer
  */
-void reset_to_98(int *n){
-	*n=98;
+
+void reset_to_98(int *n)
+{
+	*n = 98;
 }

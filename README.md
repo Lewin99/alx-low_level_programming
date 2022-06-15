@@ -1,1 +1,1 @@
-the hello world project
+the low level programming repository
