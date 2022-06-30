@@ -1,1 +1,0 @@
-heyo!,static libraries here
